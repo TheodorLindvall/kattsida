@@ -1,0 +1,30 @@
+form {
+    max-width: 400px;
+    margin: auto;
+    padding: 1em;
+    background: #f9f9f9;
+    border-radius: 5px;
+  }
+
+  label {
+    margin-top: 1em;
+    display: block;
+  }
+
+  input, select {
+    width: 100%;
+    padding: 0.5em;
+    margin-top: 0.5em;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+
+  .submit-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 1em;
+  }
